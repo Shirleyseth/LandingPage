@@ -5,5 +5,5 @@ Mini cursos gratuitos
 
 # Tecnologias utilizadas
 HTML <br>
-CSS <br>
-JavaScript
+CSS
+
